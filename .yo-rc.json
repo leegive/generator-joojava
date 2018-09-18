@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "leegive",
+      "authorEmail": "leegive@icloud.com",
+      "authorUrl": "https://www.joojava.com"
+    }
+  }
+}
